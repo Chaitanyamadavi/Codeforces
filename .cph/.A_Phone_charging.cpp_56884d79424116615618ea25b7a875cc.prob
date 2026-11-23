@@ -1,0 +1,1 @@
+{"name":"Local: A_Phone_charging","url":"/home/chaitanya/Coding/practice/A_Phone_charging.cpp","tests":[{"id":1791102134015,"input":"5\n0 1 2\n79 7 10\n80 3 8\n99 1 100\n100 99 100","output":"120\n207\n160\n100\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/chaitanya/Coding/practice/A_Phone_charging.cpp","group":"local","local":true}
